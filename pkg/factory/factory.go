@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/asaskevich/govalidator"
-	"github.com/free5gc/nef/internal/logger"
+	"github.com/f0lkert/nef/internal/logger"
 	"gopkg.in/yaml.v2"
 )
 

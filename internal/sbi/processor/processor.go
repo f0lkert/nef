@@ -1,9 +1,9 @@
 package processor
 
 import (
-	"github.com/free5gc/nef/internal/sbi/consumer"
-	"github.com/free5gc/nef/internal/sbi/notifier"
-	"github.com/free5gc/nef/pkg/app"
+	"github.com/f0lkert/nef/internal/sbi/consumer"
+	"github.com/f0lkert/nef/internal/sbi/notifier"
+	"github.com/f0lkert/nef/pkg/app"
 )
 
 type nef interface {

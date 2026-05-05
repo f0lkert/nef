@@ -1,8 +1,8 @@
 package consumer
 
 import (
-	"github.com/free5gc/nef/internal/logger"
-	"github.com/free5gc/nef/pkg/app"
+	"github.com/f0lkert/nef/internal/logger"
+	"github.com/f0lkert/nef/pkg/app"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/nrf/NFDiscovery"
 	"github.com/free5gc/openapi/nrf/NFManagement"

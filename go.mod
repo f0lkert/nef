@@ -1,4 +1,4 @@
-module github.com/free5gc/nef
+module github.com/f0lkert/nef
 
 go 1.25.5
 

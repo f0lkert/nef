@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/free5gc/nef/internal/logger"
-	"github.com/free5gc/nef/pkg/factory"
+	"github.com/f0lkert/nef/internal/logger"
+	"github.com/f0lkert/nef/pkg/factory"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/oauth"
 )

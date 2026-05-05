@@ -1,8 +1,8 @@
 package app
 
 import (
-	nef_context "github.com/free5gc/nef/internal/context"
-	"github.com/free5gc/nef/pkg/factory"
+	nef_context "github.com/f0lkert/nef/internal/context"
+	"github.com/f0lkert/nef/pkg/factory"
 )
 
 type App interface {

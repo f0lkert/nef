@@ -9,9 +9,9 @@ import (
 	"runtime/debug"
 	"syscall"
 
-	"github.com/free5gc/nef/internal/logger"
-	"github.com/free5gc/nef/pkg/factory"
-	nefapp "github.com/free5gc/nef/pkg/service"
+	"github.com/f0lkert/nef/internal/logger"
+	"github.com/f0lkert/nef/pkg/factory"
+	nefapp "github.com/f0lkert/nef/pkg/service"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/version"
 	"github.com/urfave/cli/v2"

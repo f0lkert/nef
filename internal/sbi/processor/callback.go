@@ -3,7 +3,7 @@ package processor
 import (
 	"net/http"
 
-	"github.com/free5gc/nef/internal/logger"
+	"github.com/f0lkert/nef/internal/logger"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/util/metrics/sbi"
