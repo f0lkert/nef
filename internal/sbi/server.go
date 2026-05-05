@@ -13,7 +13,7 @@ import (
 	"github.com/f0lkert/nef/internal/sbi/processor"
 	"github.com/f0lkert/nef/pkg/app"
 	"github.com/f0lkert/nef/pkg/factory"
-	"github.com/free5gc/util/httpwrapper"
+	"github.com/f0lkert/free5gc-fixup/httpwrapper"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/metrics"
 	"github.com/gin-contrib/cors"
